@@ -1,7 +1,7 @@
+
 #logo {
   display: inline-block;
   margin: 25px; /* margin: 20px was off */
-  float: left;
   height: 80px;
   width: auto; /* correct proportions to specified height */
   border-radius: 80%; /* makes it a circle */
@@ -24,4 +24,18 @@ body {
         color: burlywood;
         background: brown;
     }
-      
+    .footer {
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: rgb(2, 52, 109);
+        color: white;
+        text-align: center;
+        height: 10%;
+      }
+     
+
+      /* :hover{
+          background: lawngreen;
+      } */
