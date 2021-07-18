@@ -1,0 +1,27 @@
+#logo {
+  display: inline-block;
+  margin: 25px; /* margin: 20px was off */
+  float: left;
+  height: 80px;
+  width: auto; /* correct proportions to specified height */
+  border-radius: 80%; /* makes it a circle */
+}
+body {
+    background-color: #DBF9FC;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+    }
+    div {
+        height: 200px;
+        width: 50%;
+        background-color: powderblue;
+      }
+      img {
+        max-width:15%;
+        height: 10;
+    }
+    span {
+        color: burlywood;
+        background: brown;
+    }
+      
