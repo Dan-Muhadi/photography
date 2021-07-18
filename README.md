@@ -1,6 +1,6 @@
 # PHOTOGRAPHY
 ## Screenshot
-![Screenshot from 2021-07-18 16-26-49](https://user-images.githubusercontent.com/74545016/114166494-7844f180-9936-11eb-83b0-b69f9d309ceb.png)
+![Screenshot from 2021-07-18 16-26-49](https://user-images.githubusercontent.com/_20200908_183151_651.JPG)
 
 ## Author
 
